@@ -5,7 +5,7 @@ date: '2022-06-20'
 output: html_document
 ---
 
-##This is a markdownfile
+##This is a markdown file
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
@@ -21,7 +21,7 @@ When you click the **Knit** button a document will be generated that includes bo
 summary(cars)
 ```
 
-## Including Plots
+## Including Plots in your report
 
 You can also embed plots, for example:
 
